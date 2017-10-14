@@ -1,8 +1,7 @@
 # 5x4-soundboard
 DFPlayer Mini &amp; atmega328p based soundboard with 20 buttons
-![Proof Of Concept][poc]
-![Prototype][spt2]
 ![SMT Prototype][smt_pt]
+![Prototype][spt2]
 
 [spt2]: https://github.com/icsom/5x4-soundboard/blob/master/pictures/simple_prototype2.jpg "4x4 Sounboard (16Mhz arduino pro mini & DFPlayer Mini)"
 [smt_pt]: https://github.com/icsom/5x4-soundboard/blob/master/pictures/smt_prototype.jpg "5x4 Sounboard (16Mhz arduino Pro mini / SMT-Package)"
